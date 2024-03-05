@@ -1,0 +1,75 @@
+body
+{
+    font-family:Verdana;;
+    background-color: black;
+    margin: 1%;
+}
+main
+{
+    background-color: black;
+    color: white;
+}
+
+.images
+{
+    border: white solid 2px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+h1
+{
+    text-align: center;
+}
+h2
+{
+    text-align: left;
+}
+#nav
+{
+    text-align: center;
+    background-color: gray;
+    height: 65px;
+    width: 100%;
+}
+nav ul li
+{
+    margin: 1%;
+    padding:15px;
+    display: inline;
+    background-color: lightgrey;
+    border:2px solid red;
+    border-radius: 18px;
+    text-align: center;
+}
+.highlight
+{
+    margin: 1%;
+    background-color: red;
+    display: inline;
+    border:2px solid red;
+    border-radius: 18px;
+}
+.footer
+{
+    position: fixed;
+    background-color: grey;
+    color: white;
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    bottom: 0;
+
+}
+.title
+{
+    text-align: left;
+    color: red;
+}
+
+.OtherImages
+{
+    width: 30%;
+    height: 30%;
+
+}
